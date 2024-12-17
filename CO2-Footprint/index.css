@@ -1,0 +1,123 @@
+@charset "UTF-8";
+#header {
+  background-image: url(./Pictures/header.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 90%;
+  height: 200px;
+}
+
+#home, #areas, #ubaLink {
+  color: #fff;
+}
+
+h1 {
+  text-align: center;
+  color: #fff;
+  background-color: #198754;
+  opacity: 0.8;
+  width: 50%;
+  margin: 0 auto;
+}
+
+#navbarSupportedContent {
+  background-color: #198754;
+  opacity: 0.8;
+  z-index: 1; /* Ändert die Stapelreihenfolge und sorgt dafür, dass das Bereichs-Dropdown über dem Titel zu sehen ist */
+}
+#navbarSupportedContent label {
+  color: #fff;
+}
+#navbarSupportedContent #language-select {
+  margin-right: 1%;
+}
+
+#navButton {
+  background-color: #198754;
+}
+
+#sidebar {
+  position: sticky;
+  top: 0;
+  padding: 20px;
+  min-width: 150px;
+  width: 13%;
+  height: 100%;
+}
+
+#sidemenu {
+  position: sticky;
+  top: 0;
+  color: black;
+  height: 50px;
+  display: none;
+}
+
+#content {
+  margin: 2.5%;
+  width: 90%;
+}
+
+#info {
+  text-align: justify;
+}
+
+hr {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.divTable {
+  max-height: 300px;
+  overflow-y: auto;
+  border-collapse: collapse;
+}
+.divTable thead {
+  position: sticky;
+  top: 0;
+}
+
+#footer {
+  margin: 0 auto;
+  width: 90%;
+  background-image: url(./Pictures/footer.jpg);
+  background-size: cover;
+}
+#footer table {
+  margin: 0 auto;
+  text-align: left;
+}
+
+/* Tablet */
+@media (max-width: 768px) {
+  h1 {
+    width: 75%;
+  }
+  #sidebar {
+    width: 150px;
+  }
+  #sidemenu {
+    display: block !important;
+  }
+  .ltr #content, .ltr .site-content {
+    padding-left: 0;
+  }
+  .rtl #content, .rtl .site-content {
+    padding-right: 0;
+  }
+}
+/* Smartphone */
+@media (max-width: 500px) {
+  .ltr #sidemenu {
+    padding-left: 2%;
+  }
+  .ltr #content {
+    margin-left: 0;
+  }
+  .rtl #sidemenu {
+    padding-right: 2%;
+  }
+  .rtl #content {
+    margin-right: 0;
+  }
+}/*# sourceMappingURL=index.css.map */

@@ -1,0 +1,89 @@
+{
+    "texts": {
+        "titel": {
+            "de": "Wilkommen bei C02-Data",
+            "en": "Welcome to C02-Data",
+            "ar": "مرحباً بك في C02-Data"
+        },
+        "language_label": {
+            "de": "Sprache:&nbsp",
+            "en": "Language:&nbsp",
+            "ar": "اللغة:&nbsp"
+        },
+        "areas": {
+            "de": "Bereiche",
+            "en": "Areas",
+            "ar": "المناطق"
+        },
+        "home": {
+            "de": "Start",
+            "en": "Home",
+            "ar": "ابدأ"
+        },
+        "impressum": {
+            "de": "Impressum",
+            "en": "Legal notice",
+            "ar": "بصمة"
+        },
+        "ubaLink": {
+            "de": "Umweltbundesamt",
+            "en": "German Federal Environment Agency",
+            "ar": "الوكالة الاتحادية للبيئة"
+        },
+        "search": {
+            "de": "Suche:",
+            "en": "Search:",
+            "ar": "بحث:"
+        },
+        "information_titel": {
+            "de": "Information",
+            "en": "Information",
+            "ar": "المعلومات"
+        },
+        "information_text": { 
+            "de": "<p>Was ist eigentlich CO2? Definition, Entstehung & Einfluss aufs Klima - Klima­schutz, Klima­wandel, Treibhaus­effekt – in all diesen Themen spielt ein Begriff eine zentrale Rolle: Kohlen­stoff­dioxid, kurz Kohlen­dioxid oder ganz kurz CO2. Doch wie kann ein Gas Einfluss auf unser Klima haben? Und was genau steckt über­haupt hinter dem Begriff Treib­haus­effekt?</p><p>CO2 ist die chemische Summen­formel für das aus Kohlen­stoff und Sauer­stoff bestehende Molekül Kohlen­stoff­dioxid, auch als Kohlen­dioxid bekannt. Das Gas Kohlen­stoff­dioxid ist farblos, gut in Wasser löslich, nicht brennbar, geruch­los und ungiftig. Es ist neben Stick­stoff, Sauer­stoff und sogenannten Edel­gasen ein natür­licher Bestand­teil der Luft und ist eines der bedeutendsten Treib­haus­gase. CO2 macht mit nur etwa 0,038 Prozent einen geringen Teil der Luft aus. Es hat aber in seiner Funktion als Treib­haus­gas eine ent­scheidende Rolle für unser Klima: CO2 absorbiert einen Teil der von der Erde in das Welt­all abgegebenen Wärme und strahlt diese zurück auf die Erde. Durch diesen natürlichen Treib­haus­effekt entsteht auf der Erde das uns bekannte gemäßigte Klima, welches Flora und Fauna gedeihen lässt.</p>", 
+            "en": "<p>What actually is CO2? Definition, formation & influence on the climate - Climate protection, climate change, the greenhouse effect - one term plays a central role in all of these topics: carbon dioxide, or CO2 for short. But how can a gas influence our climate? And what exactly is behind the term greenhouse effect?</p><p>CO2 is the chemical formula for the molecule carbon dioxide, also known as carbon dioxide, which consists of carbon and oxygen. The gas carbon dioxide is colorless, easily soluble in water, non-flammable, odorless and non-toxic. Alongside nitrogen, oxygen and so-called noble gases, it is a natural component of the air and is one of the most important greenhouse gases. CO2 makes up only about 0.038 percent of the air. However, in its function as a greenhouse gas, it plays a decisive role in our climate: CO2 absorbs part of the heat emitted from the earth into space and radiates it back to the earth. This natural greenhouse effect creates the temperate climate we know on earth, which allows flora and fauna to thrive.</p>", 
+            "ar": "<p>ما هو ثاني أكسيد الكربون في الواقع؟ التعريف، والتكوين والتأثير على المناخ حماية المناخ، وتغير المناخ، وتأثير الاحتباس الحراري - هناك مصطلح واحد يلعب دورًا محوريًا في كل هذه المواضيع: ثاني أكسيد الكربون، أو CO2 اختصارًا. ولكن كيف يمكن لغاز أن يؤثر على مناخنا؟ وماذا بالضبط وراء مصطلح تأثير الاحتباس الحراري؟</p><p>ثاني أكسيد الكربون هو الصيغة الكيميائية لجزيء ثاني أكسيد الكربون، المعروف أيضًا باسم ثاني أكسيد الكربون، والذي يتكون من الكربون والأكسجين. وغاز ثاني أكسيد الكربون عديم اللون، وسهل الذوبان في الماء، وغير قابل للاشتعال، وعديم الرائحة وغير سام. وإلى جانب النيتروجين والأكسجين وما يسمى بالغازات النبيلة، فهو مكون طبيعي للهواء وأحد أهم غازات الاحتباس الحراري. يشكل ثاني أكسيد الكربون حوالي 0.038 في المائة فقط من الهواء. ومع ذلك، فإنه يؤدي دوراً حاسماً في مناخنا من خلال وظيفته كغاز دفيئة: يمتص ثاني أكسيد الكربون جزءاً من الحرارة المنبعثة من الأرض إلى الفضاء ويعيد إشعاعها إلى الأرض. ويخلق تأثير الدفيئة الطبيعي هذا المناخ المعتدل الذي نعرفه على الأرض، والذي يسمح للنباتات والحيوانات بالازدهار.</p>"
+        },
+        "country_titel": {
+            "de": "Länder",
+            "en": "Countries",
+            "ar": "الدول"
+        },
+        "country_text": { 
+            "de": "<p>Nachfolgende Tabelle einthält (fiktive) CO2 Werte viele Länder. Die Liste der Länder stammt aus Wikipedia und wurde um ein paar Informationen sowie historische Einträge und Einträge ohne UN-Ländercode gekürzt.</p>",
+            "en": "<p>The following table contains (fictitious) CO2 values for many countries. The list of countries comes from Wikipedia and has been shortened by some information as well as historical entries and entries without UN country code.</p>", 
+            "ar": "<p>يحتوي الجدول التالي على قيم (وهمية) لثاني أكسيد الكربون للعديد من البلدان. وقائمة البلدان مأخوذة من ويكيبيديا وتم اختصارها ببعض المعلومات بالإضافة إلى المدخلات التاريخية والمدخلات التي لا تحتوي على رمز البلد التابع للأمم المتحدة.</p>" 
+        },
+        "company_titel": {
+            "de": "Unternehmen",
+            "en": "Companies",
+            "ar": "الشركة"
+        },
+        "company_text": { 
+            "de": "<p>Nachfolgende Tabelle einthält (fiktive) CO2-Werte der 100 größten börsennotierten Unternehmen der Welt (Forbes Global 2000). Die Liste der Unternehmen stammt aus Wikipedia und wurde um ein paar Informationen gekürzt.</p>", 
+            "en": "<p>The following table contains (fictitious) CO2 values of the 100 largest listed companies in the world (Forbes Global 2000). The list of companies comes from Wikipedia and has been shortened by a few pieces of information.</p>", 
+            "ar": "<p>يحتوي الجدول التالي على قيم (وهمية) لثاني أكسيد الكربون لأكبر 100 شركة مدرجة في العالم (Forbes Global 2000). وقائمة الشركات مأخوذة من ويكيبيديا وتم اختصارها ببعض المعلومات.</p>"
+        },
+        "name":{
+            "de": "Name:&nbsp;",
+            "en": "Name:&nbsp;",
+            "ar": "اسمك:&nbsp;"
+        },
+        "adress":{
+            "de": "Adresse:&nbsp;",
+            "en": "Address:&nbsp;",
+            "ar": "عنوانك:&nbsp;"
+        },
+        "email":{
+            "de": "E-Mail-Adresse:&nbsp;",
+            "en": "E-mail address:&nbsp;",
+            "ar": "عنوان البريد الإلكتروني:&nbsp;"
+        },
+        "phone":{
+            "de": "Telefonnummer:&nbsp;",
+            "en": "Phone number:&nbsp;",
+            "ar": "رقم الهاتف:&nbsp;"
+        }
+    }
+}
